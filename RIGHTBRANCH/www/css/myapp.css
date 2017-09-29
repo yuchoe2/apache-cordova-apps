@@ -1,0 +1,53 @@
+
+/* line 1, ../sass/_main.scss */
+.colorful {
+  color: #bb8833;
+}
+
+/* line 4, ../sass/_main.scss */
+.app {
+  margin: 10px;
+}
+
+
+/* line 9, ../sass/_main.scss */
+.app .chessboard {
+    margin: 20px;
+    margin-left:auto;
+    margin-right:auto;
+}
+/* line 10, ../sass/_main.scss */
+table {
+  border: 10px solid black;
+  width:48%
+
+}
+
+table td {
+  width: 12%;
+  font-size: medium;
+  }
+
+
+ td.red {
+ 			  height: 8em;
+              background-color: red;
+              text-align: center;
+              vertical-align: middle;
+          }
+
+.white {
+			  height: 8em;
+              background-color: #FFFFFF;
+              text-align: center;
+              vertical-align: middle;
+          }
+
+.black {
+			  height: 8em;
+              background-color: black;
+              font-color: black;
+              text-align: center;
+              vertical-align: middle;
+              
+          }
